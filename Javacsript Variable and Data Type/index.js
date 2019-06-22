@@ -12,11 +12,13 @@ var objectStudent = {
 };
 document.write(JSON.stringify(objectStudent));
 document.write("<br>");
-objectStudent.address="Jalan Bangka XII No.4";
-document.write(JSON.stringify(objectStudent));
+// will be use in ch3
+// objectStudent.address="Jalan Bangka XII No.4";
+// document.write(JSON.stringify(objectStudent));
 document.write("<br>");
-objectStudent["phoneNumber"] = "02199388491";
-document.write(JSON.stringify(objectStudent));
+// will be use in ch3
+// objectStudent["phoneNumber"] = "02199388491";
+// document.write(JSON.stringify(objectStudent));
 document.write("<br>");
 var arrayString = ["Kucing", "Jerapah", "Zebra"];
 document.write(arrayString);
